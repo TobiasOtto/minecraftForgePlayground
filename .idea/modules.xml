@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/minecraftForgePlayground.iml" filepath="$PROJECT_DIR$/minecraftForgePlayground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minecraftForgePlayground_api.iml" filepath="$PROJECT_DIR$/.idea/modules/minecraftForgePlayground_api.iml" group="minecraftForgePlayground" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minecraftForgePlayground_main.iml" filepath="$PROJECT_DIR$/.idea/modules/minecraftForgePlayground_main.iml" group="minecraftForgePlayground" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minecraftForgePlayground_test.iml" filepath="$PROJECT_DIR$/.idea/modules/minecraftForgePlayground_test.iml" group="minecraftForgePlayground" />
+    </modules>
+  </component>
+</project>
